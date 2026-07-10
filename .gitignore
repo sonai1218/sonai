@@ -1,0 +1,16 @@
+# Local scratch files
+work/
+outputs/
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets and private data
+.env
+*.key
+*.pem
+customer-data/
+private-data/
